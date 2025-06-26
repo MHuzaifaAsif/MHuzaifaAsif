@@ -1,11 +1,11 @@
-- 👋 Hi, I’m @MHUZAIFA00
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...`
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
+- 👋 Hi, I’m Muhammad Huzaifa Asif
+- 💻 Software Engineer | Aspiring SQA Specialist | Full Stack Enthusiast
+- 👀 I’m interested in Software Quality Assurance, Web Development, and Open Source Projects
+- 🌱 I’m currently learning Test Automation
+- 💞️ I’m looking to collaborate on real-world QA projects, test automation suites, or full-stack web apps
+- 📫 How to reach me asifhuzaifa328@gmail.com
+- 😄 Pronouns: He|Him
+- ⚡ Fun fact: I automate things just so I can sip chai while tests run.
 <h2 align="left">Hi 👋! Huzaifa Asif acing from FAST NUCES</h2>
 <img src="https://komarev.com/ghpvc/?username=MHuzaifaAsif&amp;label=Profile%20views&amp;color=0e75b6&amp;style=flat" style="max-width: 100%;" alt="MHuzaifaAsif" data-canonical-src="https://komarev.com/ghpvc/?username=MHuzaifaAsif&amp;label=Profile%20views&amp;color=0e75b6&amp;style=flat" style="max-width: 100%;">
 <!--<img align="right" height="225" src="https://cdn.dribbble.com/users/416610/screenshots/4801105/media/0f73533e44c089e41c3290d4535491ad.gif"  />
