@@ -3,7 +3,7 @@
 - 👀 I’m interested in Software Quality Assurance, Web Development, and Open Source Projects
 - 🌱 I’m currently learning Test Automation
 - 💞️ I’m looking to collaborate on real-world QA projects, test automation suites, or full-stack web apps
-- 📫 How to reach me asifhuzaifa328@gmail.com
+- 📫 How to reach me asifhuzaifa328@gmail.com | https://www.linkedin.com/in/muhammad-huzaifa-asif-120818274
 - 😄 Pronouns: He|Him
 - ⚡ Fun fact: I automate things just so I can sip chai while tests run.
 <h2 align="left">Hi 👋! Huzaifa Asif acing from FAST NUCES</h2>
