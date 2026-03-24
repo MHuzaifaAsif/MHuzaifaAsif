@@ -33,6 +33,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=MHuzaifaAsif&show_icons=true&theme=shadow_green&hide_border=false&count_private=true&include_all_commits=true" alt="MHuzaifaAsif's GitHub Stats" height="190px" />
+  
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MHuzaifaAsif&layout=compact&theme=shadow_green&hide_border=false" alt="Top Languages" height="190px" />
 </p>
 
@@ -41,7 +42,8 @@
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MHuzaifaAsif&theme=shadow_green" alt="Profile Details" width="100%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MHuzaifaAsif&theme=shadow_green" alt="Commit Languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MHuzaifaAsif&theme=shadow_green" alt="Stats Card" />
 </p>
 
 ---
