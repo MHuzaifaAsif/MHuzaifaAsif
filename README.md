@@ -1,12 +1,12 @@
-# 💫 About Me:
+# 💫 About Me
 **Software Quality Assurance Engineer | Final Year Software Engineering @ FAST NUCES**
 
-🔭 **I’m currently working on:** Mobile Automation Frameworks using Appium, Maven, and TestNG.
-👯 **I’m looking to collaborate on:** Open-source Automation suites and CI/CD Pipeline integration.
-🤝 **I’m looking for help with:** Advanced Jenkins configurations for Automated Testing.
-🌱 **I’m currently learning:** Cloud-native testing with Docker and Kubernetes.
-💬 **Ask me about:** Manual/Automation Testing, SQA Methodologies, and Research in Tech.
-⚡ **Fun fact:** I find more joy in breaking code than most people find in writing it!
+🔭 **I’m currently working on:** Mobile Automation Frameworks using Appium, Maven, and TestNG.<br>
+👯 **I’m looking to collaborate on:** Open-source Automation suites and CI/CD Pipeline integration.<br>
+🤝 **I’m looking for help with:** Advanced Jenkins configurations for Automated Testing.<br>
+🌱 **I’m currently learning:** Cloud-native testing with Docker and Kubernetes.<br>
+💬 **Ask me about:** Manual/Automation Testing, SQA Methodologies, and Research in Tech.<br>
+⚡ **Fun fact:** I find more joy in breaking code than most people find in writing it!<br>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-huzaifa-asif-120818274) 
