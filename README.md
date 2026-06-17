@@ -1,5 +1,5 @@
 # 💫 About Me
-**Software Quality Assurance Engineer | Final Year Software Engineering @ FAST NUCES**
+**Software Quality Assurance Engineer | Software Engineer**
 
 🔭 **I’m currently working on:** Mobile Automation Frameworks using Appium, Maven, and TestNG.<br>
 👯 **I’m looking to collaborate on:** Open-source Automation suites and CI/CD Pipeline integration.<br>
