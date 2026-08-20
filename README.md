@@ -18,21 +18,8 @@
 
 <br>
 
-## 🧭 About Me
-
-> QA Engineer who builds automation frameworks by day and breaks them on purpose the rest of the time.
-
-```yaml
-role:        Software Quality Assurance Engineer
-current:     QA Intern @ Paklogics — Manual & Cross-Browser Testing (Oritto E-Learning Platform)
-learning:    Performance & Security Testing with ISO Standards
-collab_on:   Open-source automation suites, CI/CD pipeline integration
-help_needed: Advanced Jenkins configurations for automated testing
-published:   "Quran ILM: An Empirical Study of LLM & RAG Architectures for Quranic QA" — IEEE Xplore
-fun_fact:    I find more joy in breaking code than most people find in writing it.
-```
-
-<br>
+🧭 About Me
+<div align="center"> <i>QA Engineer who builds automation frameworks by day and breaks them on purpose the rest of the time.</i> </div> <br> <table> <tr><td>🔭</td><td><b>Currently working on</b></td><td>QA Intern @ Paklogics — Manual &amp; Cross-Browser Testing on the Oritto E-Learning Platform</td></tr> <tr><td>🌱</td><td><b>Currently learning</b></td><td>Performance &amp; Security Testing with ISO Standards</td></tr> <tr><td>👯</td><td><b>Looking to collaborate on</b></td><td>Open-source automation suites &amp; CI/CD pipeline integration</td></tr> <tr><td>🤝</td><td><b>Looking for help with</b></td><td>Advanced Jenkins configurations for automated testing</td></tr> <tr><td>📄</td><td><b>Published research</b></td><td><a href="https://ieeexplore.ieee.org/document/11577717">Quran ILM: An Empirical Study of LLM &amp; RAG Architectures for Quranic QA</a> — IEEE Xplore</td></tr> <tr><td>⚡</td><td><b>Fun fact</b></td><td>I find more joy in breaking code than most people find in writing it.</td></tr> </table> <br>
 
 ## 🛠️ Tech Stack
 
