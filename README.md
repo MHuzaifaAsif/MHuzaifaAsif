@@ -1,56 +1,138 @@
-# 💫 About Me
-**Software Quality Assurance Engineer | Software Engineer**
+<div align="center">
 
-🔭 **I'm currently working on:** Manual & cross-browser QA testing for Oritto, an O/A Level e-learning platform, at Paklogics.<br>
-👯 **I'm looking to collaborate on:** Open-source automation suites and CI/CD pipeline integration.<br>
-🤝 **I'm looking for help with:** Advanced Jenkins configurations for automated testing.<br>
-🌱 **I'm currently learning:** Performance & Security Testing with ISO standards.<br>
-💬 **Ask me about:** Manual/Automation Testing, SQA Methodologies, RAG/LLM evaluation, and Research in Tech.<br>
-📄 **Published Research:** *Quran ILM: An Empirical Study of LLM and RAG Architectures for Quranic Question Answering* — [IEEE Xplore](https://ieeexplore.ieee.org/document/11577717)<br>
-⚡ **Fun fact:** I find more joy in breaking code than most people find in writing it!
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=Muhammad%20Huzaifa&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Quality%20Assurance%20Engineer&descAlignY=55&descSize=18" width="100%"/>
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-huzaifa-asif-120818274)
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mhuzaifa.asif412@gmail.com)
+<a href="https://www.linkedin.com/in/muhammad-huzaifa-asif-120818274">
+  <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="mailto:mhuzaifa.asif412@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+<a href="https://ieeexplore.ieee.org/document/11577717">
+  <img src="https://img.shields.io/badge/IEEE%20Xplore-00629B?style=for-the-badge&logo=ieee&logoColor=white"/>
+</a>
 
----
+<img src="https://komarev.com/ghpvc/?username=MHuzaifaAsif&style=for-the-badge&color=2c5364&label=PROFILE+VIEWS" />
 
-## 🛠 Tech Stack:
+</div>
 
-### 💻 Programming & Frameworks
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white)
+<br>
 
-### 🧪 Quality Assurance & Automation
-![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=flat&logo=selenium&logoColor=white) ![Cypress](https://img.shields.io/badge/-cypress-%2361DAFB?style=flat&logo=cypress&logoColor=white) ![Appium](https://img.shields.io/badge/-Appium-662d91?style=flat&logo=appium&logoColor=white) ![TestNG](https://img.shields.io/badge/-TestNG-FF7F00?style=flat&logo=testng&logoColor=white) ![REST Assured](https://img.shields.io/badge/-REST%20Assured-3E8635?style=flat&logo=java&logoColor=white) ![Jira](https://img.shields.io/badge/Jira-%230052CC.svg?style=flat&logo=atlassian&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white) ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=flat&logo=jest&logoColor=white)
+## 🧭 About Me
 
-### ⚙️ DevOps & Data
-![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=flat&logo=jenkins&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=flat&logo=githubactions&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/mongodb-%2347A248.svg?style=flat&logo=mongodb&logoColor=white) ![Streamlit](https://img.shields.io/badge/streamlit-%23FF4B4B.svg?style=flat&logo=streamlit&logoColor=white)
+> QA Engineer who builds automation frameworks by day and breaks them on purpose the rest of the time.
 
----
+```yaml
+role:        Software Quality Assurance Engineer
+current:     QA Intern @ Paklogics — Manual & Cross-Browser Testing (Oritto E-Learning Platform)
+learning:    Performance & Security Testing with ISO Standards
+collab_on:   Open-source automation suites, CI/CD pipeline integration
+help_needed: Advanced Jenkins configurations for automated testing
+published:   "Quran ILM: An Empirical Study of LLM & RAG Architectures for Quranic QA" — IEEE Xplore
+fun_fact:    I find more joy in breaking code than most people find in writing it.
+```
+
+<br>
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+**Languages & Frameworks**
+<br>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
+<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+<img src="https://img.shields.io/badge/React-20232a?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"/>
+
+**Quality Assurance & Automation**
+<br>
+<img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white"/>
+<img src="https://img.shields.io/badge/Cypress-61DAFB?style=for-the-badge&logo=cypress&logoColor=black"/>
+<img src="https://img.shields.io/badge/Appium-662D91?style=for-the-badge&logo=appium&logoColor=white"/>
+<img src="https://img.shields.io/badge/TestNG-FF7F00?style=for-the-badge&logo=testng&logoColor=white"/>
+<img src="https://img.shields.io/badge/REST%20Assured-3E8635?style=for-the-badge&logo=java&logoColor=white"/>
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+<img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white"/>
+
+**DevOps, Data & Tools**
+<br>
+<img src="https://img.shields.io/badge/Jenkins-2C5263?style=for-the-badge&logo=jenkins&logoColor=white"/>
+<img src="https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub%20Actions-2671E5?style=for-the-badge&logo=githubactions&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
+
+</div>
+
+<br>
 
 ## 🚀 Featured Projects
-- **[Quran ILM RAG Assistant](https://ieeexplore.ieee.org/document/11577717)** — Scholar RAG chatbot with an automated LLM-as-a-Judge semantic evaluation suite (Python, Streamlit, MongoDB, Gemini API, Pytest); published on IEEE Xplore.
-- **Oritto E-Learning Platform QA** — Manual UI, functional, and cross-browser test suite for an O/A Level platform, validating navigation, session workflows, and exam modules with Chrome DevTools device emulation.
-- **Weather API Testing** — Automated RESTful endpoint testing with REST Assured and Cypress, covering status codes, payloads, and error handling.
-- **Mobile Test Automation Framework** — Java/Appium/Selenium (POM) Android UI testing framework integrated with GitHub Actions for headless PR testing.
-- **OrangeHRM Manual Testing** — Full-lifecycle functional and UI testing with JIRA-based defect tracking in an Agile workflow.
 
----
+<div align="center">
 
-## 📊 GitHub Stats:
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MHuzaifaAsif&show_icons=true&theme=shadow_green&hide_border=false&count_private=true&include_all_commits=true" alt="MHuzaifaAsif's GitHub Stats" height="190px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MHuzaifaAsif&layout=compact&theme=shadow_green&hide_border=false" alt="Top Languages" height="190px" />
-</p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MHuzaifaAsif&theme=shadow_green&hide_border=false" alt="GitHub Streak" />
-</p>
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MHuzaifaAsif&theme=shadow_green" alt="Commit Languages" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MHuzaifaAsif&theme=shadow_green" alt="Stats Card" />
-</p>
+<table>
+<tr>
+<td width="50%">
 
----
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=MHuzaifaAsif&icon=0&color=0" alt="Visitor Count" />
-</p>
+### 📖 Quran ILM RAG Assistant
+Scholar RAG chatbot with an automated **LLM-as-a-Judge** evaluation suite validating grounding, relevance, and tone.
+<br><br>
+`Python` `Streamlit` `MongoDB` `Gemini API` `Pytest`
+<br>
+📄 [Published on IEEE Xplore](https://ieeexplore.ieee.org/document/11577717)
+
+</td>
+<td width="50%">
+
+### 🎓 Oritto E-Learning Platform QA
+Manual UI, functional & cross-browser testing for an O/A Level e-learning platform using Chrome DevTools device emulation.
+<br><br>
+`Manual QA` `Cross-Browser` `Session Testing`
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### ☁️ Weather API Testing
+Automated RESTful endpoint testing validating status codes, payloads, error handling, and data accuracy.
+<br><br>
+`REST Assured` `Cypress` `JSON` `REST APIs`
+
+</td>
+<td width="50%">
+
+### 📱 Mobile Test Automation Framework
+Java/Appium/Selenium (POM) Android UI framework, integrated with GitHub Actions for headless PR testing.
+<br><br>
+`Appium` `Java` `TestNG` `GitHub Actions`
+
+</td>
+</tr>
+</table>
+
+</div>
+
+<br>
+
+## 📊 GitHub Analytics
+
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=MHuzaifaAsif&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="185"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MHuzaifaAsif&layout=compact&theme=tokyonight&hide_border=true" height="185"/>
+<br>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=MHuzaifaAsif&theme=tokyonight&hide_border=true" />
+<br>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=MHuzaifaAsif&theme=tokyo-night&hide_border=true" width="95%"/>
+</div>
+
+<br>
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=100&section=footer" width="100%"/>
+</div>
