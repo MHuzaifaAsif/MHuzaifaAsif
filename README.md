@@ -76,16 +76,20 @@ Scholar RAG chatbot with an automated **LLM-as-a-Judge** evaluation suite valida
 </td>
 <td width="50%">
 
-### 🎓 Oritto E-Learning Platform QA
-Manual UI, functional & cross-browser testing for an O/A Level e-learning platform using Chrome DevTools device emulation.
+### 🎓 [EduConnect – MERN Tutoring & Session Platform](https://edu-connect-mern-platform.vercel.app)
+Full-stack online tutoring platform featuring role-based access (Student/Tutor/Admin), dynamic tutor discovery, interactive session scheduling, credential verification, and financial analytics.
 <br><br>
-`Manual QA` `Cross-Browser` `Session Testing`
+`React.js` `Node.js` `Express.js` `MongoDB` `JWT` `Recharts` `Docker` `Vercel` `Render`
 
 </td>
-</tr>
-<tr>
 <td width="50%">
+### ⚡ [SkillSwap — Real-Time Freelance Marketplace](https://skill-swap-smoky-chi.vercel.app)
+Full-stack real-time freelance platform featuring live WebSocket bidding feeds, instant two-way chat with typing indicators, admin ID verification queue, and role-based dashboards (Freelancer / Client / Admin).
+<br><br>
+`React 18` `Node.js` `Express` `MongoDB Atlas` `Socket.io` `Redux Toolkit` `Tailwind CSS` `JWT Auth`
 
+</td>
+<td width="50%">
 ### ☁️ Weather API Testing
 Automated RESTful endpoint testing validating status codes, payloads, error handling, and data accuracy.
 <br><br>
@@ -94,10 +98,11 @@ Automated RESTful endpoint testing validating status codes, payloads, error hand
 </td>
 <td width="50%">
 
-### 📱 Mobile Test Automation Framework
-Java/Appium/Selenium (POM) Android UI framework, integrated with GitHub Actions for headless PR testing.
+### 📱 Mobile Test Automation & Security Suite
+Automated Android mobile testing framework validating end-to-end user journeys, functional workflows, and OWASP MASVS security vulnerabilities with rich ExtentReports and CI/CD.
 <br><br>
-`Appium` `Java` `TestNG` `GitHub Actions`
+`Appium` `Java 17` `TestNG` `Selenium` `Page Object Model` `OWASP MASVS` `ExtentReports` `GitHub Actions`
+
 
 </td>
 </tr>
