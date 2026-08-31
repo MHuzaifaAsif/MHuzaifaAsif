@@ -59,18 +59,16 @@
 <br>
 
 ## 🚀 Featured Projects
-
 <div align="center">
-
 <table>
 <tr>
 <td width="50%">
 
 ### 📖 Quran ILM RAG Assistant
 Scholar RAG chatbot with an automated **LLM-as-a-Judge** evaluation suite validating grounding, relevance, and tone.
-<br><br>
+
 `Python` `Streamlit` `MongoDB` `Gemini API` `Pytest`
-<br>
+
 📄 [Published on IEEE Xplore](https://ieeexplore.ieee.org/document/11577717)
 
 </td>
@@ -78,38 +76,44 @@ Scholar RAG chatbot with an automated **LLM-as-a-Judge** evaluation suite valida
 
 ### 🎓 [EduConnect – MERN Tutoring & Session Platform](https://edu-connect-mern-platform.vercel.app)
 Full-stack online tutoring platform featuring role-based access (Student/Tutor/Admin), dynamic tutor discovery, interactive session scheduling, credential verification, and financial analytics.
-<br><br>
+
 `React.js` `Node.js` `Express.js` `MongoDB` `JWT` `Recharts` `Docker` `Vercel` `Render`
 
 </td>
+</tr>
+<tr>
 <td width="50%">
+
 ### ⚡ [SkillSwap — Real-Time Freelance Marketplace](https://skill-swap-smoky-chi.vercel.app)
 Full-stack real-time freelance platform featuring live WebSocket bidding feeds, instant two-way chat with typing indicators, admin ID verification queue, and role-based dashboards (Freelancer / Client / Admin).
-<br><br>
+
 `React 18` `Node.js` `Express` `MongoDB Atlas` `Socket.io` `Redux Toolkit` `Tailwind CSS` `JWT Auth`
 
 </td>
 <td width="50%">
+
 ### ☁️ Weather API Testing
 Automated RESTful endpoint testing validating status codes, payloads, error handling, and data accuracy.
-<br><br>
+
 `REST Assured` `Cypress` `JSON` `REST APIs`
 
 </td>
+</tr>
+<tr>
 <td width="50%">
 
 ### 📱 Mobile Test Automation & Security Suite
 Automated Android mobile testing framework validating end-to-end user journeys, functional workflows, and OWASP MASVS security vulnerabilities with rich ExtentReports and CI/CD.
-<br><br>
+
 `Appium` `Java 17` `TestNG` `Selenium` `Page Object Model` `OWASP MASVS` `ExtentReports` `GitHub Actions`
 
+</td>
+<td width="50%">
 
 </td>
 </tr>
 </table>
-
 </div>
-
 <br>
 
 ## 📊 GitHub Analytics
