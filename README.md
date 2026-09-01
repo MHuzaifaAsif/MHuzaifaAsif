@@ -92,16 +92,6 @@ Full-stack real-time freelance platform featuring live WebSocket bidding feeds, 
 </td>
 <td width="50%">
 
-### ☁️ Weather API Testing
-Automated RESTful endpoint testing validating status codes, payloads, error handling, and data accuracy.
-
-`REST Assured` `Cypress` `JSON` `REST APIs`
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
 ### 📱 Mobile Test Automation & Security Suite
 Automated Android mobile testing framework validating end-to-end user journeys, functional workflows, and OWASP MASVS security vulnerabilities with rich ExtentReports and CI/CD.
 
