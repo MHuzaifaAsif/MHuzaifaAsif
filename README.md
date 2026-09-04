@@ -18,22 +18,8 @@
 
 <br>
 
-## 🧭 About Me
-
-<div align="center"> <i>QA Engineer who builds automation frameworks by day and breaks them on purpose the rest of the time.</i> </div> 
-
-<br>
-
-<table> 
-<tr><td>🔭</td><td><b>Currently working on</b></td><td>QA @ Paklogics — Manual & Cross-Browser Testing on the Oritto E-Learning Platform</td></tr> 
-<tr><td>🌱</td><td><b>Currently learning</b></td><td>Performance & Security Testing with ISO Standards</td></tr> 
-<tr><td>👯</td><td><b>Looking to collaborate on</b></td><td>Open-source automation suites & CI/CD pipeline integration</td></tr> 
-<tr><td>🤝</td><td><b>Looking for help with</b></td><td>Advanced Jenkins configurations for automated testing</td></tr> 
-<tr><td>📄</td><td><b>Published research</b></td><td><a href="https://ieeexplore.ieee.org/document/11577717">Quran ILM: An Empirical Study of LLM & RAG Architectures for Quranic QA</a> — IEEE Xplore</td></tr> 
-<tr><td>⚡</td><td><b>Fun fact</b></td><td>I find more joy in breaking code than most people find in writing it.</td></tr> 
-</table> 
-
-<br>
+🧭 About Me
+<div align="center"> <i>QA Engineer who builds automation frameworks by day and breaks them on purpose the rest of the time.</i> </div> <br> <table> <tr><td>🔭</td><td><b>Currently working on</b></td><td>QA @ Paklogics — Manual &amp; Cross-Browser Testing on the Oritto E-Learning Platform</td></tr> <tr><td>🌱</td><td><b>Currently learning</b></td><td>Performance &amp; Security Testing with ISO Standards</td></tr> <tr><td>👯</td><td><b>Looking to collaborate on</b></td><td>Open-source automation suites &amp; CI/CD pipeline integration</td></tr> <tr><td>🤝</td><td><b>Looking for help with</b></td><td>Advanced Jenkins configurations for automated testing</td></tr> <tr><td>📄</td><td><b>Published research</b></td><td><a href="https://ieeexplore.ieee.org/document/11577717">Quran ILM: An Empirical Study of LLM &amp; RAG Architectures for Quranic QA</a> — IEEE Xplore</td></tr> <tr><td>⚡</td><td><b>Fun fact</b></td><td>I find more joy in breaking code than most people find in writing it.</td></tr> </table> <br>
 
 ## 🛠️ Tech Stack
 
@@ -73,7 +59,6 @@
 <br>
 
 ## 🚀 Featured Projects
-
 <div align="center">
 <table>
 <tr>
@@ -113,30 +98,26 @@ Automated Android mobile testing framework validating end-to-end user journeys, 
 `Appium` `Java 17` `TestNG` `Selenium` `Page Object Model` `OWASP MASVS` `ExtentReports` `GitHub Actions`
 
 </td>
+<td width="50%">
+
+</td>
 </tr>
 </table>
 </div>
-
 <br>
 
-## 📊 GitHub Stats
+## 📊 GitHub Analytics
 
 <div align="center">
-
-| Metric | Value |
-|--------|-------|
-| **Total Contributions** | 186+ |
-| **Current Streak** | 7 days |
-| **Longest Streak** | 7 days |
-| **Primary Languages** | Python, Java, JavaScript |
-
-*View my [GitHub profile](https://github.com/MHuzaifaAsif) for more details*
-
+<img src="https://github-readme-stats.vercel.app/api?username=MHuzaifaAsif&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="185"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MHuzaifaAsif&layout=compact&theme=tokyonight&hide_border=true" height="185"/>
+<br>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=MHuzaifaAsif&theme=tokyonight&hide_border=true" />
+<br>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=MHuzaifaAsif&theme=tokyo-night&hide_border=true" width="95%"/>
 </div>
 
 <br>
-
----
 
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=100&section=footer" width="100%"/>
